@@ -1,4 +1,4 @@
-## Activity File: Threat Modeling, Steps 1-4
+## Activity File: Threat Modeling, Steps 1-4 bo
 
 Today, you’ll play the role of a security consultant contracted to advise a financial technology firm called GeldCorp.
 
