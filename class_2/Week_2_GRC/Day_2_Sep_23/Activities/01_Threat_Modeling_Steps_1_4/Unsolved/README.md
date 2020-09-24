@@ -125,9 +125,14 @@ Identifying the most important assets on the web application network:
 
 1. Identify Threat Agents: List three threat agents relevant to the web application.
 
+Employees, script kiddies, APTs
+
 2. Identify Possible Attacks: List five attacks relevant to the web application and which threat agent is most likely to use each one. 
 
     - Be creative. We'll cover web attacks later in this course, but for now you can use Google to help you with identifying these attacks.
+    
+    DDoS - Competitor
+    
 
 3. Identify Exploitable Vulnerabilities: Identify three possible vulnerabilities in the web application infrastructure, and rank them in order of severity. 
   
